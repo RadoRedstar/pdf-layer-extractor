@@ -1,0 +1,7 @@
+pypdf==6.13.1
+pdfplumber==0.11.9
+pypdfium2==5.9.0
+streamlit==1.58.0
+streamlit-image-coordinates==0.4.0
+numpy==2.4.6
+pillow==12.2.0

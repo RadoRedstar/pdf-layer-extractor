@@ -1,0 +1,8 @@
+.venv
+uploads
+__pycache__
+*.pyc
+*.pdf
+*.png
+*.txt
+.git
